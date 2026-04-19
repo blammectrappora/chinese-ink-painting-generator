@@ -68,3 +68,12 @@ node chineseinkpaintinggenerator.js "cranes flying over a lake at dawn" --token 
 
 The `--token` flag is the only way the script accepts a token.
 
+## Example Output
+
+```bash
+node chineseinkpaintinggenerator.js "traditional Chinese ink painting (shui-mo hua), sumi-e brushwork, flowing black ink on rice paper, misty mountains and bamboo, minimalist negative space composition, delicate calligraphic strokes, soft gradient washes, serene oriental aesthetic, classic shan shui landscape style"
+```
+
+![Example output](https://oss.talesofai.cn/picture/9c7202d6-1e00-48a6-831f-25b23babcc27.webp)
+
+> Prompt: *"traditional Chinese ink painting (shui-mo hua), sumi-e brushwork, flowing black ink on rice paper, misty mountains and bamboo, minimalist negative space composition, delicate calligraphic strokes, soft gradient washes, serene oriental aesthetic, classic shan shui landscape style"*
